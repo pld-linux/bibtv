@@ -1,3 +1,5 @@
+# TODO:
+# - fix it - seems to be broken
 %include	/usr/lib/rpm/macros.perl
 Summary:	Text based interactive searching
 Name:		bibtv
