@@ -2,7 +2,7 @@
 # - fix it - seems to be broken
 %include	/usr/lib/rpm/macros.perl
 Summary:	Text based interactive searching
-Summary(pl.UTF-8):   Interaktywne przeszukiwanie oparte na tekście
+Summary(pl.UTF-8):	Interaktywne przeszukiwanie oparte na tekście
 Name:		bibtv
 Version:	0.2.7
 Release:	0.9
