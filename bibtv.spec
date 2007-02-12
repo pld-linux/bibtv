@@ -2,7 +2,7 @@
 # - fix it - seems to be broken
 %include	/usr/lib/rpm/macros.perl
 Summary:	Text based interactive searching
-Summary(pl):	Interaktywne przeszukiwanie oparte na tek∂cie
+Summary(pl.UTF-8):   Interaktywne przeszukiwanie oparte na tek≈õcie
 Name:		bibtv
 Version:	0.2.7
 Release:	0.9
@@ -21,10 +21,10 @@ Text based interactive searching. Stores information in associative
 arrays, so is extremely fast once the database is loaded, but it
 requires a lot of memory for large databases.
 
-%description -l pl
-Interaktywne przeszukiwanie oparte na tek∂cie. Program zapisuje
-informacje w tablicach asocjacyjnych, wiÍc po za≥adowaniu bazy jest
-bardzo szybki, ale wymaga duøo pamiÍci dla duøych baz danych.
+%description -l pl.UTF-8
+Interaktywne przeszukiwanie oparte na tek≈õcie. Program zapisuje
+informacje w tablicach asocjacyjnych, wiƒôc po za≈Çadowaniu bazy jest
+bardzo szybki, ale wymaga du≈ºo pamiƒôci dla du≈ºych baz danych.
 
 %prep
 
